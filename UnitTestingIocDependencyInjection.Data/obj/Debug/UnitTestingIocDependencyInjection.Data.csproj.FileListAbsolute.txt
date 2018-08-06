@@ -1,0 +1,6 @@
+c:\users\rchynoweth\source\repos\UnitTestingIocDependencyInjection\UnitTestingIocDependencyInjection.Data\bin\Debug\UnitTestingIocDependencyInjection.Data.dll
+c:\users\rchynoweth\source\repos\UnitTestingIocDependencyInjection\UnitTestingIocDependencyInjection.Data\bin\Debug\UnitTestingIocDependencyInjection.Data.pdb
+c:\users\rchynoweth\source\repos\UnitTestingIocDependencyInjection\UnitTestingIocDependencyInjection.Data\obj\Debug\UnitTestingIocDependencyInjection.Data.csproj.CoreCompileInputs.cache
+c:\users\rchynoweth\source\repos\UnitTestingIocDependencyInjection\UnitTestingIocDependencyInjection.Data\obj\Debug\UnitTestingIocDependencyInjection.Data.dll
+c:\users\rchynoweth\source\repos\UnitTestingIocDependencyInjection\UnitTestingIocDependencyInjection.Data\obj\Debug\UnitTestingIocDependencyInjection.Data.pdb
+c:\users\rchynoweth\source\repos\UnitTestingIocDependencyInjection\UnitTestingIocDependencyInjection.Data\obj\Debug\UnitTestingIocDependencyInjection.Data.csprojAssemblyReference.cache
